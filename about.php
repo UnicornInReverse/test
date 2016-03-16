@@ -1,7 +1,9 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: Bas
- * Date: 16/03/16
- * Time: 10:49
- */
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+    JE BENT ZELF EEN DOOS JOH
+</body>
+</html>
